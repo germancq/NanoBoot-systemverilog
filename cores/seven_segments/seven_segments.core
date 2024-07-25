@@ -1,0 +1,72 @@
+CAPI=1
+[main]
+description = "seven_segments"
+
+depend =
+ misc
+
+[verilog]
+src_files =
+  seven_segments/seven_segments.sv
+
+[provider]
+name = github
+user = germancq
+repo = hdl_cores
+version = a84dffb98772156862433dfd045949ca4102aefc  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

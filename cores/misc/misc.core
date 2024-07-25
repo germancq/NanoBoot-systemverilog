@@ -1,0 +1,18 @@
+CAPI=1
+[main]
+description = "misc"
+
+
+[verilog]
+src_files =
+  misc/counter.sv
+  misc/mux.sv
+  misc/register.sv
+  misc/pulse_button.sv
+
+
+[provider]
+name = github
+user = germancq
+repo = hdl_cores
+version = a84dffb98772156862433dfd045949ca4102aefc    

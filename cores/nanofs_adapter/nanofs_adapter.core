@@ -1,0 +1,14 @@
+CAPI=1
+[main]
+description = "nanofs_wrapper"
+depend =
+ misc
+ nanofs
+ sdspi
+
+[verilog]
+src_files =
+  rtl/nanofs_wrapper.sv
+  rtl/adapter_nanofs.sv
+
+  

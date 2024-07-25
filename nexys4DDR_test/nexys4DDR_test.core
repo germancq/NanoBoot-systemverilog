@@ -1,0 +1,39 @@
+CAPI=2:
+
+name : ::nexys4ddr_test:0
+description : Nanofs wrapper system for the Digilent Nexys 4 DDR development board
+
+
+targets :
+  synth :
+
+    toplevel  : top
+
+    filesets  :
+      - rtl_top
+      - constraints
+
+    default_tool : vivado
+
+    tools:
+      vivado:
+        part : xc7a100tcsg324-1
+
+filesets :
+  rtl_top :
+
+    depend :
+      - seven_segments
+      - nanofs_adapter
+     
+
+    file_type : verilogSource
+
+    files :
+      - rtl/top.sv
+      
+
+  constraints :
+    file_type : xdc
+    files :
+      - data/Nexys4DDR_Master.xdc

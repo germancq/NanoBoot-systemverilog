@@ -1,0 +1,18 @@
+CAPI=1
+[main]
+description = "sdspi"
+depend =
+ misc
+
+[verilog]
+src_files =
+  sdspi/sdspihost.sv
+  sdspi/sdcmd.sv
+  sdspi/spi_master.sv
+  
+
+[provider]
+name = github
+user = germancq
+repo = hdl_cores
+version = a84dffb98772156862433dfd045949ca4102aefc    

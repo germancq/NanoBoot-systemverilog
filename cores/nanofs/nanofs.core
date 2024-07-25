@@ -1,0 +1,14 @@
+CAPI=1
+[main]
+description = "nanofs"
+depend =
+ misc
+
+[verilog]
+src_files =
+  rtl/nanofs.sv
+  rtl/execute_nanofs_multiblock.sv
+  rtl/execute_nanofs.sv
+  rtl/init_nanofs.sv
+  rtl/look_up_mbr_partition.sv
+  rtl/search_nanofs.sv
