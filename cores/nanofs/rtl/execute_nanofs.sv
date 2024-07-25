@@ -1,34 +1,12 @@
 /**
  * @Author: German Cano Quiveu <germancq>
- * @Date:   2018-11-13T12:23:25+01:00
  * @Email:  germancq@dte.us.es
  * @Filename: execute_nanofs.v
- * @Last modified by:   germancq
- * @Last modified time: 2018-12-07T12:36:57+01:00
  */
 
 
 
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:
-// Engineer:
-//
-// Create Date: 06.10.2017 15:10:27
-// Design Name:
-// Module Name: execute_nanofs
-// Project Name:
-// Target Devices:
-// Tool Versions:
-// Description:
-//
-// Dependencies:
-//
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-//
-//////////////////////////////////////////////////////////////////////////////////
 
 
 module execute_nanofs(

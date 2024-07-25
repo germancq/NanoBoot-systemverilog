@@ -1,9 +1,5 @@
 /**
  * @ Author: German Cano Quiveu, germancq
- * @ Create Time: 2019-12-03 18:53:17
- * @ Modified by: Your name
- * @ Modified time: 2019-12-05 13:16:07
- * @ Description:
  */
 
 module top(

@@ -1,10 +1,7 @@
 /**
  * @Author: German Cano Quiveu <germancq>
- * @Date:   2018-12-07T12:37:17+01:00
  * @Email:  germancq@dte.us.es
  * @Filename: execute_nanofs_multiblock.v
- * @Last modified by:   germancq
- * @Last modified time: 2019-02-26T12:14:26+01:00
  */
 
 

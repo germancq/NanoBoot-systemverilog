@@ -1,9 +1,5 @@
 /**
  * @ Author: German Cano Quiveu, germancq
- * @ Create Time: 2019-12-02 17:07:00
- * @ Modified by: Your name
- * @ Modified time: 2020-02-04 13:13:01
- * @ Description:
  */
 
 module nanofs_wrapper #(parameter N=32, 

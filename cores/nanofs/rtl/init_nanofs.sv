@@ -1,10 +1,8 @@
 /**
  * @Author: German Cano Quiveu <germancq>
- * @Date:   2018-11-13T12:23:25+01:00
  * @Email:  germancq@dte.us.es
  * @Filename: init_nanofs.v
- * @Last modified by:   germancq
- * @Last modified time: 2018-11-13T12:38:24+01:00
+
  */
 
 

@@ -1,34 +1,14 @@
 /**
  * @Author: German Cano Quiveu <germancq>
- * @Date:   2018-11-13T12:23:25+01:00
  * @Email:  germancq@dte.us.es
  * @Filename: search_nanofs.v
- * @Last modified by:   germancq
- * @Last modified time: 2019-02-26T12:13:46+01:00
+
  */
 
 
 
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company:
-// Engineer:
-//
-// Create Date: 05.10.2017 17:47:33
-// Design Name:
-// Module Name: search_nanofs
-// Project Name:
-// Target Devices:
-// Tool Versions:
-// Description:
-//
-// Dependencies:
-//
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 
 
 module search_nanofs(

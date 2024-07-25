@@ -1,10 +1,7 @@
 /**
  * @Author: German Cano Quiveu <germancq>
- * @Date:   2018-11-13T12:23:25+01:00
  * @Email:  germancq@dte.us.es
  * @Filename: nanofs.v
- * @Last modified by:   germancq
- * @Last modified time: 2019-04-23T12:03:50+02:00
  */
 
 
