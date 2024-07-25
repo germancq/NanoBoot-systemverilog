@@ -2,4 +2,4 @@
 
 SystemVerilog code for NanoBoot
 
-Original Repository for NanoFS is in https://github.com/paulino/nanofs-fuse
+Source Code for NanoFS: https://github.com/paulino/nanofs-fuse
